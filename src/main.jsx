@@ -50,10 +50,10 @@ const tabs = [
 
                 <h3>Can I make mods with this?</h3>
                 <p>
-                    It's possible, but its not recommended unless you know what you're doing, and really need to be able to make sweeping changes to the core game engine. The Star Rod modding tool is very powerful and allows for quite a lot of flexibility. If you do decide to attempt to use papermario as a base for your mod, Star Rod can be used to view and edit most assets with ease.
+                    It's possible, and recommended unless you don't know what you're doing, and really don't need to be able to make sweeping changes to the core game engine.
                 </p>
                 <p>
-                    Currently, papermario is not <a href="https://github.com/pmret/papermario/issues/367">shiftable</a>. In making changes to the source code, data and functions must not be changed in a way that makes them compile to a larger binary, or the game will crash. This makes modding a lot more difficult that it would be if the game was shiftable.
+                    Currently, papermario is <a href="https://github.com/pmret/papermario/issues/367">shiftable</a>. In making changes to the source code, data and functions can be changed in a way that makes them compile to a larger binary, and the game will not crash. This makes modding a lot easier than it would be if the game was not shiftable.
                 </p>
                 <p>
                     <a href="https://discord.gg/urUm3VG">Join the modding Discord server ›</a>
